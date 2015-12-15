@@ -1,4 +1,4 @@
-﻿<!-- Last project change: 2015-12-09 11:46:36 (2015-12-09 11:46:36) -->
+﻿<!-- Last project change: 2015-12-09 13:20:56 (2015-12-09 13:20:56) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -15,10 +15,10 @@
       <IsActive>true</IsActive>
       <ChildObjects>
         <PrjFrameParentDef>
-          <ObjectId>Document\LB02</ObjectId>
+          <ObjectId>Document\LB01</ObjectId>
           <Rect>
-            <Left>553</Left>
-            <Top>297</Top>
+            <Left>1094</Left>
+            <Top>294</Top>
             <Width>450</Width>
             <Height>900</Height>
           </Rect>
@@ -32,10 +32,10 @@
           <ZedLevel>0</ZedLevel>
         </PrjFrameParentDef>
         <PrjFrameParentDef>
-          <ObjectId>Document\LB01</ObjectId>
+          <ObjectId>Document\LB02</ObjectId>
           <Rect>
-            <Left>1094</Left>
-            <Top>294</Top>
+            <Left>553</Left>
+            <Top>297</Top>
             <Width>450</Width>
             <Height>900</Height>
           </Rect>
